@@ -1,4 +1,4 @@
-# art_and_simulations# Particle Generator
+#Flow_Field_Sin_Stroke
 
 This is a Processing sketch that generates and visualizes a field of particles on a canvas. These particles move across the canvas while leaving a trail, creating mesmerizing patterns. The particle motion is influenced by Perlin noise and can be customized with different textures and parameters.
 
