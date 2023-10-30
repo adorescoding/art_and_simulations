@@ -1,7 +1,7 @@
 # Flow_Field_Sin_Stroke
 
 <p align="center">
-  <img src="Self_Portrait_sin_stroke_adorescoding.png" alt="Self Portrait Here?" width="300">
+  <img src="Self_Portrait_sin_stroke_adorescoding.png" alt="Self Portrait Here?" width="500">
 </p>
 
 This is a Processing sketch that generates and visualizes a field of particles on a canvas. These particles move across the canvas while leaving a trail, creating mesmerizing patterns. The particle motion is influenced by Perlin noise and can be customized with different textures and parameters.
